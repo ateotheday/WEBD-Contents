@@ -1,0 +1,34 @@
+a
+{
+    text-decoration:none;
+    font: size 20px;
+    text-align: center;
+    margin: 0 auto;
+    color: #000000;
+
+}
+a:hover{
+
+    color:white;
+  
+}
+
+#hey
+{
+    background: url(img/contact.jpg) no-repeat center center fixed;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    margin:0%;
+}
+.back
+{
+margin: 0 auto;
+width: 80%;
+text-align: center;
+position: relative;
+color: whitesmoke;
+font-size:x-large;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: italic;
+}
